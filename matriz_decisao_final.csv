@@ -1,0 +1,9 @@
+Critério,Peso,Salvador_Score,Recife_Score,Justificativa_Salvador,Justificativa_Recife,Salvador_Ponderado,Recife_Ponderado
+Custo de Implantação,0.2,85,70,R$ 46 mi vs R$ 54 mi (15% menor),R$ 54 mi vs R$ 46 mi (15% maior),17.0,14.0
+Acessibilidade Logística,0.2,78,72,"Melhor acesso a Fortaleza, Teresina, São Luís","Melhor acesso a João Pessoa, Natal, Maceió",15.600000000000001,14.4
+Potencial de Mercado Local,0.15,95,88,Maior mercado e-commerce (R$ 41.3 bi vs R$ 31.6 bi),Mercado regional consolidado,14.25,13.2
+Crescimento Futuro,0.1,82,78,Crescimento 3.2% vs 2.8%,Crescimento econômico estável,8.200000000000001,7.800000000000001
+Incentivos Fiscais,0.1,90,65,Programa Polos Logísticos (ISS 2%),Incentivos municipais básicos,9.0,6.5
+Infraestrutura Disponível,0.1,75,80,Hub logístico em desenvolvimento,Infraestrutura rodoviária estabelecida,7.5,8.0
+População Atendida 24h,0.1,85,75,4 capitais em 24h (PIB R$ 403 bi),4 capitais em 24h (PIB R$ 286 bi),8.5,7.5
+PIB dos Estados Próximos,0.05,88,82,"Estados próximos: BA, SE, AL","Estados próximos: PE, PB, RN, AL",4.4,4.1000000000000005
